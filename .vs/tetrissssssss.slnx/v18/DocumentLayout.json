@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tetrissssssss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|C:\\tetrissssssss\\tetrissssssss\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|solutionrelative:tetrissssssss\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|C:\\tetrissssssss\\tetrissssssss\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|solutionrelative:tetrissssssss\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|C:\\tetrissssssss\\tetrissssssss\\pieces.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|solutionrelative:tetrissssssss\\pieces.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|C:\\tetrissssssss\\tetrissssssss\\functionality.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBEF510D-0264-467B-B0C4-B27AC0877518}|tetrissssssss\\tetrissssssss.vcxproj|solutionrelative:tetrissssssss\\functionality.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "functionality.h",
+              "DocumentMoniker": "C:\\tetrissssssss\\tetrissssssss\\functionality.h",
+              "RelativeDocumentMoniker": "tetrissssssss\\functionality.h",
+              "ToolTip": "C:\\tetrissssssss\\tetrissssssss\\functionality.h",
+              "RelativeToolTip": "tetrissssssss\\functionality.h",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAOEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T16:25:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pieces.h",
+              "DocumentMoniker": "C:\\tetrissssssss\\tetrissssssss\\pieces.h",
+              "RelativeDocumentMoniker": "tetrissssssss\\pieces.h",
+              "ToolTip": "C:\\tetrissssssss\\tetrissssssss\\pieces.h",
+              "RelativeToolTip": "tetrissssssss\\pieces.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T16:25:14.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "utils.h",
+              "DocumentMoniker": "C:\\tetrissssssss\\tetrissssssss\\utils.h",
+              "RelativeDocumentMoniker": "tetrissssssss\\utils.h",
+              "ToolTip": "C:\\tetrissssssss\\tetrissssssss\\utils.h",
+              "RelativeToolTip": "tetrissssssss\\utils.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T16:24:48.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\tetrissssssss\\tetrissssssss\\main.cpp",
+              "RelativeDocumentMoniker": "tetrissssssss\\main.cpp",
+              "ToolTip": "C:\\tetrissssssss\\tetrissssssss\\main.cpp*",
+              "RelativeToolTip": "tetrissssssss\\main.cpp*",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAMkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T10:01:28.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

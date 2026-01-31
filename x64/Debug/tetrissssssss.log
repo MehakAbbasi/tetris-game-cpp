@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\tetrissssssss\tetrissssssss\main.cpp(199,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\tetrissssssss\tetrissssssss\main.cpp(199,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  tetrissssssss.vcxproj -> C:\tetrissssssss\x64\Debug\tetrissssssss.exe
